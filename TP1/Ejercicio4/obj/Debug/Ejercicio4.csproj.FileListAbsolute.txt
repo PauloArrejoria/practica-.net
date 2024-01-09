@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio4\obj\Debug\Ejercicio4.pdb

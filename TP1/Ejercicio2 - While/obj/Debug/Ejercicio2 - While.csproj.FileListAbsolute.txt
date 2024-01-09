@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio2 - While\bin\Debug\Ejercicio2 - While.exe.config
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio2 - While\bin\Debug\Ejercicio2 - While.exe
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio2 - While\bin\Debug\Ejercicio2 - While.pdb
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio2 - While\obj\Debug\Ejercicio2 - While.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio2 - While\obj\Debug\Ejercicio2 - While.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio2 - While\obj\Debug\Ejercicio2 - While.exe
+C:\Users\paulo\source\repos\ProyectoTaller2023\Practica-Csharp\TP1\Ejercicio2 - While\obj\Debug\Ejercicio2 - While.pdb
